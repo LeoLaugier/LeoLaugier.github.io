@@ -1,11 +1,6 @@
 ---
 title: Leo Laugier
 layout: default
+show_particles: True 
+header: False
 ---
-
-## titre 1
-test
-
-## teseest
-* tset
-

@@ -1,6 +1,7 @@
 ---
 title: About me
 layout: default
+header: True
 ---
 ## Experience
 * June 2018 - February 2019: [_Research Engineer_](https://www.a-star.edu.sg/i2r/RESEARCH/DEEP-LEARNING) -- **Agency for Science, Technology and Research (A\*STAR)**, Singapore
