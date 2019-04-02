@@ -8,7 +8,7 @@ header: True
   <img src="img/leo.jpg" style='width: 13% '>
 </div>
 I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [I²R -- A*Star](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the Master of Engineering in EECS of **UC Berkeley**, specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship.
-{: .text-justify}
+
 ## Experience
 <div style='position: absolute; z-index: -1 ; margin-left : -14%'>
   <img src="img/logo_astar.jpg" style='width: 100% '>
