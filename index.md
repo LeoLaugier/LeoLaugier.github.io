@@ -1,7 +1,7 @@
 ---
 title: Leo Laugier
 layout: default
-description: PhD student in Deep Learning 
+description: Welcome to my personal website
 show_particles : True
 ---
 

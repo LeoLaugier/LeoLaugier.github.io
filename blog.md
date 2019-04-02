@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+description: Some thoughts
 header: True
 ---
 <h1>Latest Posts</h1>
