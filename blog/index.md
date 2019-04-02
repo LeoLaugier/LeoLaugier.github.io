@@ -3,7 +3,7 @@ layout: default
 title: Blog
 header: True
 ---
-<h1>Latest Posts</h1>
+<h1>Latzqdsef</h1>
 
 <ul>
   {% for post in site.posts %}
@@ -13,4 +13,3 @@ header: True
     </li>
   {% endfor %}
 </ul>
-

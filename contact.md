@@ -1,10 +1,7 @@
 ---
-title: Leo Laugier
+title: Contact
 layout: default
 description: PhD student in Deep Learning 
-show_particles : True
+header: True
 ---
-
-
-
 
