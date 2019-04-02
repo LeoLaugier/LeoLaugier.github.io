@@ -4,16 +4,32 @@ layout: default
 header: True
 ---
 ## Short Bio
-Ajouter une photo 
-
-
+<div style='position: absolute; z-index: -1 ; margin-left : -14% ; margin-top: -3%'>
+  <img src="img/leo.jpg" style='width: 13% '>
+</div>
+I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [I²R -- A*Star](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the Master of Engineering in EECS of **UC Berkeley**, specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship.
+{: .text-justify}
 ## Experience
-* June 2018 - February 2019: [_Research Engineer_](https://www.a-star.edu.sg/i2r/RESEARCH/DEEP-LEARNING) -- **Agency for Science, Technology and Research (A\*STAR)**, Singapore
-	* <u>Research Institute</u>: Institute for Infocomm Research (I²R)
-
+<div style='position: absolute; z-index: -1 ; margin-left : -14%'>
+  <img src="img/logo_astar.jpg" style='width: 100% '>
+</div>
+* June 2018 - February 2019: [_Research Engineer_](https://www.a-star.edu.sg/i2r/RESEARCH/DEEP-LEARNING) -- **Agency for Science, Technology and Research (A\*STAR) Institute for Infocomm Research (I²R)**, Singapore
+  * Incorporated **Common Sense knowledge** from MIT **ConceptNet** knowledge base into **NLP** systems with **PyTorch**.
+  * Built relevant **Common Sense graphs** to improve **Sentiment Analysis** and **Question Answering** systems. 
+  * Tuned **hyperparameters** to find the best architecture for **Graph Convolutional Neural Networks** (GCNN). 
+  * **Published** as first author in the Machine Learning for Molecules and Materials **NeurIPS 2018 Workshop** _Predicting thermoelectric properties from crystal graphs and material descriptors - first application for functional materials._
+<div style='position: absolute; z-index: -1 ; margin-left : -14%'>
+  <img src="img/ibm_logo.png" style='width: 25% '>
+</div>  
 * July 2016: [_Practical Trainee_](https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml) -- **IBM**, Montpellier, France
+  * Supported a team of experts and architects to the implementation of technical platforms in a data center.
+<div style='position: absolute; z-index: -1 ; margin-left : -14%'>
+  <img src="img/lanl_logo.png" style='width: 100% '>
+</div>  
 * July 2014 - August 2014: [_Undergraduate summer intern_](https://public.lanl.gov/geophysics/geophysics/index.shtml) -- **Los Alamos National Laboratory**, Los Alamos, New Mexico
 	* <u>Division</u>: Earth and Environmental Science  
+  * Computed regularized least squares methods on data from the **Dynamic AcoustoElasticity Testing** to find parameters of the behavior of non-linear materials.
+
 
 ## Education
 <div style='position: absolute; z-index: -1 ; margin-left : -14%'>

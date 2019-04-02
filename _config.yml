@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: "Leo Laugier"
 description: Deep Learning PhD student
 show_downloads: false
+gems:
+  - jekyll-seo-tag
