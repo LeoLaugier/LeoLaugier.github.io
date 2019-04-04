@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-description: My research focuses on Deep Learning for natural Language Processing
+description: My research focuses on Deep Learning for Natural Language Processing
 header: True
 ---
 
