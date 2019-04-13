@@ -3,6 +3,7 @@ layout: default
 title: Blog
 description: Some thoughts
 header: True
+comments: true
 ---
 <h1>Latest Posts</h1>
 
@@ -14,4 +15,6 @@ header: True
     </li>
   {% endfor %}
 </ul>
+
+{% include disqus_comments.html %}
 

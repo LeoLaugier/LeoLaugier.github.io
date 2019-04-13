@@ -6,58 +6,52 @@ gems:
   - jekyll-seo-tag
 
 curriculum:
-  - image: img/logo_astar.jpg
-    title: I²R - A*STAR
+  - image: img/i2r_logo.png
+    title: I²R - A*STAR 
     info: June 2018 - February 2019
+    place: Singapore
     description: Research Engineer
-    url: http://roamanalytics.com
-  - image: img/leo.jpg
-    title: Machine Learning Group
-    info: Fall 2017
-    description: Research Project in NLP
-    url: https://stanfordmlgroup.github.io
-  - image: img/leo.jpg
-    title: Teaching Assistant
-    info: 2017-2018
-    description: CS224n, CS229, CS230, CS234
-    url: http://cs224n.stanford.edu
-  - image: img/leo.jpg
-    title: Stanford University
-    info: 2016 - 2018
-    description: Master in ICME - Data Science Track
-    url: https://icme.stanford.edu
-  - image: img/leo.jpg
-    title: Proxem (Paris)
-    info: Summer 2016
-    description: Research on Named Entity Recognition with LSTM + CRF
-    url: https://www.proxem.com/en/
-  - image: img/leo.jpg
-    title: Riminder (Paris)
-    info: Spring 2016
-    description: Project in Question Answering + Chat Bot
-    url: https://www.riminder.net
-  - image: img/leo.jpg
-    title: École polytechnique
-    info: 2013 - 2016
-    url: https://www.polytechnique.edu
-    description: Master in Applied Mathematics - Diplôme d'Ingénieur
-  - image: img/leo.jpg
-    title: Option TI (Santiago de Chile)
-    info: Summer 2015
-    description: Web Developer
-    url: https://www.option.cl
-  - image: img/leo.jpg
-    title: Université Panthéon-Sorbonne
-    info: 2014 - 2015
-    url: https://www.univ-paris1.fr/ufr/ufr10/
-    description: Licence 3, Philosophie
-  - image: img/leo.jpg
-    title: Marine Nationale
-    info: 2013
-    description: Aspirant - French Guyana and La Martinique
-    url: http://www.defense.gouv.fr/marine/equipements/batiments-de-combat/patrouilleurs/type-p-400/la-capricieuse-p-684
-  - image: img/leo.jpg
-    title: Lycée Sainte Geneviève
-    info: 2011 - 2013
-    description: Classes préparatoires - Maths Physics
-    url: http://bginette.com
+    url: https://www.a-star.edu.sg
+    page: /a-star.html
+  - image: img/genius_logo.jpg
+    title: Genius CentraleSupélec
+    info: December 2015 - December 2016
+    place: Gif-sur-Yvette, France
+    description: General Secretary
+    url: https://geniusglobal.fr/public.html
+    page: /genius.html
+  - image: img/ibm_logo.png
+    title: IBM
+    info: July 2016 
+    place: Montpellier, France
+    description: Practical Trainee 
+    url: https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml
+    page: /ibm.html
+  - image: img/lanl_logo.png
+    title: Los Alamos National Laboratory
+    info: July 2014 - August 2014
+    place: Los Alamos, New Mexico
+    description: Undergraduate summer intern
+    url: https://www.lanl.gov/
+    page: /lanl.html
+  - image: img/seal_berkeley.png
+    title: University of California
+    info: August 2017 - May 2018
+    place: Berkeley, California
+    description: Master of Engineering
+    url: https://www.berkeley.edu/
+    page: /berkeley.html
+  - image: img/logocs.png
+    title: CentraleSupélec (University of Paris-Saclay)
+    info: September 2015 - July 2017
+    place: Gif-sur-Yvette, France
+    description: Bachelor of Science
+    url: https://www.centralesupelec.fr/en
+    page: /centralesupelec.html
+  - image: img/logofrance.png
+    title: Lycée Condorcet
+    info: September 2013 - July 2015
+    place: Paris, France
+    url: https://prepas.org/index.php?article=1
+    description: Preparatory years for high scientific schools
+    page: /prepa.html

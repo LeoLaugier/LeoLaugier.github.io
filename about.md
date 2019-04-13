@@ -20,6 +20,8 @@ header: True
 I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [**I²R -- A*Star**](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the **Master of Engineering** in EECS of [**UC Berkeley**](https://funginstitute.berkeley.edu/programs-centers/full-time-program/), specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship. 
 {: style="text-align: justify"}
 
+## Experience and Education
+<!--
 ## Experience
 <div style='position: absolute; z-index: 0 ; margin-left : -270px ; margin-top: 70px'>
   <a href="https://www.a-star.edu.sg" target="_blank"><img src="img/logo_astar.jpg" style='width: 200px '></a>
@@ -32,7 +34,7 @@ I come from Paris where I learned engineering and I built an academic background
   * **Published** as first author in the Machine Learning for Molecules and Materials **NeurIPS 2018 Workshop** _Predicting thermoelectric properties from crystal graphs and material descriptors - first application for functional materials._
 
 <div style='position: absolute; z-index: 0 ; margin-left : -260px ; margin-top: 40px'>
-  <a href="geniusglobal.fr/public.html" target="_blank"><img src="img/genius_logo.jpg" style='width: 180px '></a>
+  <a href="https://geniusglobal.fr/public.html" target="_blank"><img src="img/genius_logo.jpg" style='width: 180px '></a>
 </div>  
 * December 2015 - December 2016: [_General Secretary_](https://www.facebook.com/centralesupelecgenius/) -- **Genius CentraleSupélec**, Gif-sur-Yvette, France
   * Genius is a federation that includes 8 student associations from French institutions of higher education. Its objective is to federate student entrepreneurs to favor innovation and to spur new business start-up.
@@ -41,7 +43,7 @@ I come from Paris where I learned engineering and I built an academic background
   * Won the 2015 Startup Night over 7 competing teams.
 
 <div style='position: absolute; z-index: 0 ; margin-left : -260px '>
-  <a href="https://github.com/LeoLaugier" target="_blank"><img src="img/ibm_logo.png" style='width: 180px '></a>
+  <a href="https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml" target="_blank"><img src="img/ibm_logo.png" style='width: 180px '></a>
 </div>  
 * July 2016: [_Practical Trainee_](https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml) -- **IBM**, Montpellier, France
   * Supported a team of experts and architects to the implementation of technical platforms in a data center.
@@ -76,3 +78,4 @@ I come from Paris where I learned engineering and I built an academic background
 * September 2013 - July 2015: [_Preparatory years for high scientific schools_](/doc/curriculumcpge.pdf) -- **Lycée Condorcet**, Paris, France
     * <u>Major</u>: **Mathematics, Physics and Computer Sciences** 
     * <u>Relevant coursework</u>: Programming Methods <a href="http://caml.inria.fr/" target="_blank"><img src="img/caml_logo.ico" height="18" ></a> , Data Structures and Algorithms <a href="https://www.python.org/" target="_blank"><img src="img/Python.svg" height="18" ></a> <a href="https://www.mysql.com/" target="_blank"><img src="img/mysql_logo.svg" height="24" ></a> , Logic, Finite Automata, Algebra, General Topology, Euclidean and Hermitian spaces, Function of several real variables and differential calculus.
+-->    

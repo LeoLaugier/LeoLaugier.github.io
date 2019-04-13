@@ -67,9 +67,6 @@
       {{ content }}
 
 
-
-
-
       <section id="cd-timeline" class="cd-container">
         {% for event in site.curriculum %}
 
@@ -81,9 +78,24 @@
             </a>
 
             <div class="cd-timeline-content">
-                <h3>{{event.title}}</h3>
-                <p>{{event.description}}</p>
-                <span class="cd-date">{{event.info}}</span>
+                <h2>{{event.title}}</h2>
+                <p><a href={{event.page}}><i>{{event.description}}</i></a></p>
+
+                <!--<span class="cd-date">{{event.info}}</span>-->
+                <span class="cd-date">
+                  <table >
+                      <tbody>
+                        <tr>
+                          <td  style="border: none;">{{event.info}}</td>
+                        </tr>
+                        <tr>
+                          <td  style="border: none;">{{event.place}}</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                </span>
+
+
             </div> <!-- cd-timeline-content -->
         </div> <!-- cd-timeline-block -->
         {% endfor %}
@@ -91,12 +103,6 @@
       </section> <!-- cd-timeline -->
       <script src="js/jquery.min.js"></script>
       <script src="js/main.js"></script>
-      
-
-
-
-
-
 
 
         <footer class="site-footer">
