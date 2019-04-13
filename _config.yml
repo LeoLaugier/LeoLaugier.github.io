@@ -1,6 +1,63 @@
 theme: jekyll-theme-cayman
-title: "Leo Laugier"
+title: "Leo Laugier's personal website"
 description: Deep Learning PhD student
 show_downloads: false
 gems:
   - jekyll-seo-tag
+
+curriculum:
+  - image: img/logo_astar.jpg
+    title: I²R - A*STAR
+    info: June 2018 - February 2019
+    description: Research Engineer
+    url: http://roamanalytics.com
+  - image: img/leo.jpg
+    title: Machine Learning Group
+    info: Fall 2017
+    description: Research Project in NLP
+    url: https://stanfordmlgroup.github.io
+  - image: img/leo.jpg
+    title: Teaching Assistant
+    info: 2017-2018
+    description: CS224n, CS229, CS230, CS234
+    url: http://cs224n.stanford.edu
+  - image: img/leo.jpg
+    title: Stanford University
+    info: 2016 - 2018
+    description: Master in ICME - Data Science Track
+    url: https://icme.stanford.edu
+  - image: img/leo.jpg
+    title: Proxem (Paris)
+    info: Summer 2016
+    description: Research on Named Entity Recognition with LSTM + CRF
+    url: https://www.proxem.com/en/
+  - image: img/leo.jpg
+    title: Riminder (Paris)
+    info: Spring 2016
+    description: Project in Question Answering + Chat Bot
+    url: https://www.riminder.net
+  - image: img/leo.jpg
+    title: École polytechnique
+    info: 2013 - 2016
+    url: https://www.polytechnique.edu
+    description: Master in Applied Mathematics - Diplôme d'Ingénieur
+  - image: img/leo.jpg
+    title: Option TI (Santiago de Chile)
+    info: Summer 2015
+    description: Web Developer
+    url: https://www.option.cl
+  - image: img/leo.jpg
+    title: Université Panthéon-Sorbonne
+    info: 2014 - 2015
+    url: https://www.univ-paris1.fr/ufr/ufr10/
+    description: Licence 3, Philosophie
+  - image: img/leo.jpg
+    title: Marine Nationale
+    info: 2013
+    description: Aspirant - French Guyana and La Martinique
+    url: http://www.defense.gouv.fr/marine/equipements/batiments-de-combat/patrouilleurs/type-p-400/la-capricieuse-p-684
+  - image: img/leo.jpg
+    title: Lycée Sainte Geneviève
+    info: 2011 - 2013
+    description: Classes préparatoires - Maths Physics
+    url: http://bginette.com

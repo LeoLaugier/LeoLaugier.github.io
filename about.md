@@ -1,7 +1,7 @@
 ---
 title: About me
 description: Research engineer in Deep Learning 
-layout: default
+layout: about
 header: True
 ---
 ## Short Bio  
@@ -17,7 +17,8 @@ header: True
 <div style='position: absolute; z-index: 0 ; margin-left : -142px ; margin-top: 180px'>
   <a href="https://github.com/LeoLaugier" target="_blank"><img src="img/github32.png" width="24"></a>
 </div>
-I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [**I²R -- A*Star**](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the **Master of Engineering** in EECS of [**UC Berkeley**](https://funginstitute.berkeley.edu/programs-centers/full-time-program/), specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship.
+I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [**I²R -- A*Star**](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the **Master of Engineering** in EECS of [**UC Berkeley**](https://funginstitute.berkeley.edu/programs-centers/full-time-program/), specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship. 
+{: style="text-align: justify"}
 
 ## Experience
 <div style='position: absolute; z-index: 0 ; margin-left : -270px ; margin-top: 70px'>
