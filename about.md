@@ -4,7 +4,17 @@ description: Research engineer in Deep Learning
 layout: about
 header: True
 ---
-## Short Bio  
+
+<img src="img/leo.jpg" style='width: 200px ; border-radius: 120px ; margin-left: auto; margin-right: auto; display: block;'>
+<div style='display: block; margin-left: auto; margin-right: auto; '>
+  <a href="mailto:leojlaugier@gmail.com" target="_blank"><img src="img/gmail.svg" width="24"></a>
+  <a href="https://www.linkedin.com/in/leolaugier" target="_blank"><img src="img/linkedin14.png" width="24"></a>
+  <a href="https://github.com/LeoLaugier" target="_blank"><img src="img/github32.png" width="24"></a>
+</div>
+{: style="text-align: center"}
+## Short Bio 
+{: style="text-align: center"}
+<!--
 <div style='position: absolute; z-index: 0 ; margin-left : -270px ; margin-top: -30px'>
   <img src="img/leo.jpg" style='width: 200px ; border-radius: 120px '>
 </div>
@@ -17,10 +27,12 @@ header: True
 <div style='position: absolute; z-index: 0 ; margin-left : -142px ; margin-top: 180px'>
   <a href="https://github.com/LeoLaugier" target="_blank"><img src="img/github32.png" width="24"></a>
 </div>
+--> 
 I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [**I²R -- A*Star**](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the **Master of Engineering** in EECS of [**UC Berkeley**](https://funginstitute.berkeley.edu/programs-centers/full-time-program/), specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship. 
 {: style="text-align: justify"}
 
 ## Experience and Education
+{: style="text-align: center"}
 <!--
 ## Experience
 <div style='position: absolute; z-index: 0 ; margin-left : -270px ; margin-top: 70px'>
