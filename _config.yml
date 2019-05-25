@@ -10,48 +10,54 @@ curriculum:
     title: I²R - A*STAR 
     info: June 2018 - February 2019
     place: Singapore
-    description: Research Engineer
+    description: Pre-doctoral Research Engineer
+    major: Deep Learning
     url: https://www.a-star.edu.sg
     page: /a-star.html
+  - image: img/seal_berkeley.png
+    title: University of California
+    info: August 2017 - May 2018
+    place: Berkeley, California
+    description: MEng.
+    major: Computer Science
+    url: https://www.berkeley.edu/
+    page: /berkeley.html
+  - image: img/ibm_logo.png
+    title: IBM
+    info: July 2016 
+    place: Montpellier, France
+    description: Intern - Data Center Technician 
+    url: https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml
+    page: /ibm.html
   - image: img/genius_logo.jpg
     title: Genius CentraleSupélec
     info: December 2015 - December 2016
     place: Gif-sur-Yvette, France
     description: General Secretary
+    major: Student organization promoting entrepreneurship
     url: https://geniusglobal.fr/public.html
     page: /genius.html
-  - image: img/ibm_logo.png
-    title: IBM
-    info: July 2016 
-    place: Montpellier, France
-    description: Practical Trainee 
-    url: https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml
-    page: /ibm.html
+  - image: img/logocs.png
+    title: CentraleSupélec (University of Paris-Saclay)
+    info: September 2015 - May 2018
+    place: Gif-sur-Yvette, France
+    description: BSc. (Upper division) and MSc. — Dipl. Ing.
+    major: Electrical Engineering, Computer Science and Telecommunications
+    url: https://www.centralesupelec.fr/en
+    page: /centralesupelec.html
   - image: img/lanl_logo.png
     title: Los Alamos National Laboratory
     info: July 2014 - August 2014
     place: Los Alamos, New Mexico
-    description: Undergraduate summer intern
+    description: Intern - Research Assistant
+    major: Earth and Environmental Science
     url: https://www.lanl.gov/
     page: /lanl.html
-  - image: img/seal_berkeley.png
-    title: University of California
-    info: August 2017 - May 2018
-    place: Berkeley, California
-    description: Master of Engineering
-    url: https://www.berkeley.edu/
-    page: /berkeley.html
-  - image: img/logocs.png
-    title: CentraleSupélec (University of Paris-Saclay)
-    info: September 2015 - July 2017
-    place: Gif-sur-Yvette, France
-    description: Bachelor of Science
-    url: https://www.centralesupelec.fr/en
-    page: /centralesupelec.html
-  - image: img/logofrance.png
+  - image: img/logo_condorcet2.svg
     title: Lycée Condorcet
     info: September 2013 - July 2015
     place: Paris, France
     url: https://prepas.org/index.php?article=1
-    description: Preparatory years for high scientific schools
+    description: BSc. program (Lower division) — C.P.G.E.
+    major: Mathematics, Physics and Computer Science
     page: /prepa.html
