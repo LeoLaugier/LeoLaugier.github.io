@@ -4,6 +4,16 @@ title: Research
 description: My research focuses on Deep Learning for Natural Language Processing
 header: True
 ---
+## Research interests
+My main area of research is Artificial Intelligence for **Natural Language Processing**, specifically **deep learning** models for natural language understanding in online conversations with applications to social science computing.
+{: style="text-align: justify"}  
+
+Research topics of interest include: 
+* **Deep Learning Theory**
+* **AI for Humanity** 
+* **Applications of NLP for social good** 
+* **Offensive language detection and mitigation** 
+* **Social science computing**
 
 ## Publications
 * [[PDF](https://rlgm.github.io/papers/14.pdf)] Leo Laugier\*, Anran Wang\*, Chuan-Sheng Foo, Theo Guenais and Vijay Chandrasekhar: **Encoding Knowledge Graph with Graph CNN for Question Answering.** _Representation Learning on Graphs and Manifolds ICLR 2019 Workshop_

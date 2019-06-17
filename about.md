@@ -1,6 +1,6 @@
 ---
 title: About me
-description: Research engineer in Deep Learning 
+description: Engineer and Ph.D. candidate in Deep Learning 
 layout: about
 header: True
 ---
@@ -28,7 +28,14 @@ header: True
   <a href="https://github.com/LeoLaugier" target="_blank"><img src="img/github32.png" width="24"></a>
 </div>
 --> 
-I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [**I²R -- A*Star**](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the **Master of Engineering** in EECS of [**UC Berkeley**](https://funginstitute.berkeley.edu/programs-centers/full-time-program/), specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship. 
+<!--I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [**I²R -- A*Star**](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the **Master of Engineering** in EECS of [**UC Berkeley**](https://funginstitute.berkeley.edu/programs-centers/full-time-program/), specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship. --> 
+I am an engineer and **Ph.D. candidate** in the [Department of Computer Sciences and Networks](https://www.telecom-paris.fr/en/the-school/en-les-departements-denseignement-recherche/computer-sciences-and-networks) (INFRES) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) (IP Paris), funded by a Google doctoral fellowship and working on Conversation AI research. I am supervised by [Prof. Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) ([IMT](https://www.imt.fr/en/) [LTCI](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci)) and [Dr. Lucas Dixon](https://jigsaw.google.com/) ([Google Brain](https://ai.google/)). I am also a member of the [Laboratory of Information, Networking and Communication Sciences](https://www.lincs.fr/) (LINCS).  
+{: style="text-align: justify"}
+I am broadly intersted about leveraging AI models and theory in social science computing, and specifically in applying technics of **NLP for social good**. My thesis focus is on developing systems to detect and mitigate subtle forms of toxicity in online conversations. 
+{: style="text-align: justify"}
+Prior to joining IP Paris, I spent a fantastic year as a pre-doctoral research engineer at the [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r) (I²R) of the [Agency for Science, Technology and Research](https://www.a-star.edu.sg/) (A*STAR). There, I was a member of the [Deep Learning 2.0](https://www.a-star.edu.sg/i2r/RESEARCH/DEEP-LEARNING) team and worked with [Dr. Anran Wang](https://sites.google.com/site/1991wanganran/), [Dr. Chuan–Sheng Foo](http://ai.stanford.edu/~csfoo/) and [Dr. Vijay Chandrasekhar](http://vijaychan.github.io/). I completed my **Master in computer science** on May 2018 at the [University of California, Berkeley](https://funginstitute.berkeley.edu/programs-centers/full-time-program/) where I was advised by [Prof. Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). 
+{: style="text-align: justify"}
+You can find out more about my research and outreach activities by exploring the rest of my site and [my GitHub repositories](https://github.com/LeoLaugier). 
 {: style="text-align: justify"}
 
 ## Experience and Education
