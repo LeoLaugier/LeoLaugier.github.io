@@ -154,8 +154,8 @@ var pJS = function(tag_id, params){
   };
 
 
-  pJS.fn.retinaInit = function(){
 
+  pJS.fn.retinaInit = function(){
     if(pJS.retina_detect && window.devicePixelRatio > 1){
       pJS.canvas.pxratio = window.devicePixelRatio; 
       pJS.tmp.retina = true;
@@ -166,7 +166,8 @@ var pJS = function(tag_id, params){
     }
 
     pJS.canvas.w = pJS.canvas.el.offsetWidth * pJS.canvas.pxratio;
-    pJS.canvas.h = pJS.canvas.el.offsetHeight * pJS.canvas.pxratio;
+    pJS.canvas.h = pJS.canvas.el.offsetHeight * pJS.canvas.pxratio ;
+    pJS.canvas.h = (window.innerHeight- document.getElementById("myheader").clientHeight) *pJS.canvas.pxratio;
 
     pJS.particles.size.value = pJS.tmp.obj.size_value * pJS.canvas.pxratio;
     pJS.particles.size.anim.speed = pJS.tmp.obj.size_anim_speed * pJS.canvas.pxratio;
@@ -199,6 +200,7 @@ var pJS = function(tag_id, params){
 
           pJS.canvas.w = pJS.canvas.el.offsetWidth;
           pJS.canvas.h = pJS.canvas.el.offsetHeight;
+          pJS.canvas.h =(window.innerHeight- document.getElementById("myheader").clientHeight)
 
           /* resize canvas */
           if(pJS.tmp.retina){
@@ -255,7 +257,7 @@ var pJS = function(tag_id, params){
     this.y = position ? position.y : Math.random() * pJS.canvas.h;
 
     /* check position  - into the canvas */
-    if(this.x > pJS.canvas.w - this.radius*2) this.x = this.x - this.radius;
+    if(this.x > pJS.canvas.w - 100) this.x = this.x - this.radius;
     else if(this.x < this.radius*2) this.x = this.x + this.radius;
     if(this.y > pJS.canvas.h - this.radius*2) this.y = this.y - this.radius;
     else if(this.y < this.radius*2) this.y = this.y + this.radius;
