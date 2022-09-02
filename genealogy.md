@@ -78,6 +78,6 @@ Le fichier pèse actuellement (02 septembre 2022) 154 Mo, c'est donc un fichier 
 * {: style="text-align: justify"} Une fois le fichier GEDCOM importé, vous pouvez commencer à l'explorer ! 
 
 ## Explorer l'arbre généalogique
-* {: style="text-align: justify"} Cliquer sur l'onglet "Individus" pour afficher la liste des individus triée par ordre lexicographique (nom de famille, prénom). Sélectionner un individu.
+* {: style="text-align: justify"} Cliquer sur l'onglet "Individus" pour afficher la liste des individus triée par ordre lexicographique (nom de famille, prénom). Sélectionner un individu. Puis explorer les onglets du bas de la fenêtre ("Détails", "Événements", "Citations", "Notes", etc.) pour plus d'informations.
 * {: style="text-align: justify"} Cliquer sur l'onglet "Relations" pour afficher la famille "nucléaire" (famille réduite à un seul degré de parenté ou d'alliance) de l'individu sélectionné.
 * {: style="text-align: justify"} Cliquer sur l'onglet "Graphiques" pour afficher des graphiques sur les relations de l'individu, par exemple le graphique de l'arbre généalogique ascendant ou descendant. 
