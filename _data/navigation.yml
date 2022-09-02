@@ -10,4 +10,6 @@
   #link: /blog.html
   link: https://leolaugier.wp.imt.fr/
 - name: Pictures
-  link: /pictures.html   
+  link: /pictures.html
+- name: Genealogy
+  link: /genealogy.html

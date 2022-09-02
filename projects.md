@@ -5,6 +5,8 @@ layout: default
 header: True
 ---
 
+[Last updated on June 19th, 2019]
+
 ## Master of Engineering Capstone Project on Representation Learning for text   <a href="doc/capstone.pdf" target="_blank"><img src="img/pdf24.png" ></a>
 **UC Berkeley** -- <a href="https://www.linkedin.com/in/george-daheng-fei-63356075/" target="_blank">George Fei</a>, <a href="https://leolaugier.github.io/about.html" target="_blank">Leo Laugier</a>, <a href="https://www.linkedin.com/in/scott-thomas-johnson/" target="_blank">Scott Johnson</a> and <a href="https://www.linkedin.com/in/shikunding/" target="_blank">Shikun Ding</a> <a href="https://www.python.org/" target="_blank"><img src="img/logo_python.png" height="18" ></a> <a href="https://keras.io/" target="_blank"><img src="img/keras_Logo.jpg" height="18" ></a> <a href="https://scikit-learn.org/stable/" target="_blank"><img src="img/scikit-learn_logo.png" height="18" ></a>
 <!--<a<iframe width="820" height="461" src="https://www.youtube.com/embed/CtaEdjT_vAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
