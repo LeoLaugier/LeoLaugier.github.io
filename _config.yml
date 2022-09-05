@@ -6,9 +6,14 @@ gems:
   - jekyll-seo-tag
 
 curriculum:
-
-    Pre-doctoral Research Engineer
-
+  - image: img/ipparis_carre.png
+    title: Institut Polytechnique de Paris
+    info: June 2019 - November 2022
+    place: Palaiseau, France
+    description: Ph.D.
+    major: Computer Science — Natural Language Processing with Deep Learning
+    url: https://www.ip-paris.fr/en
+    page: /ipparis.html
   - image: img/i2r_logo.png
     title: I²R - A*STAR 
     info: June 2018 - February 2019
@@ -48,11 +53,3 @@ curriculum:
     major: Earth and Environmental Science
     url: https://www.lanl.gov/
     page: /lanl.html
-  - image: img/logo_condorcet2.svg
-    title: Lycée Condorcet
-    info: September 2013 - July 2015
-    place: Paris, France
-    url: https://prepas.org/index.php?article=1
-    description: BSc. program (Lower division) — C.P.G.E.
-    major: Mathematics, Physics and Computer Science
-    page: /prepa.html
