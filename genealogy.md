@@ -14,26 +14,24 @@ L'idée est de mettre à jour cet arbre régulièrement. **Toute information est
 
 ## Informations sur l'arbre
 
+Version : 1.0.0 [02 septembre 2022]
+
+<a href="https://drive.google.com/file/d/1udc2tA92_LovBM9STtlanpp7U-239HMx/view?usp=sharing" target="_blank"> Lien de téléchargement. </a>
+
 L'arbre contient les relations biologiques et adoptives suivantes :
 * Mes ascendants et ascendantes
-* Ma fraterie
+* Ma fratrie
 * Mes cousins et cousines (c'est-à dire avec qui je partage au moins un ancêtre commun)
 * Les alliés directs et alliées directes, c'est à dire les époux et épouses, des membres cités ci-dessus.
  
 Sont donc absents les membres de ma famille élargie suivants : 
-* Mes alliés collatéraux et alliées collatérales (c'est-à dire les ascendants, ascendantes, descendants, descendantes, frateries, cousins, cousines, alliés et alliées de mes alliés et alliées... vous suivez ?) 
+* Mes alliés collatéraux et alliées collatérales (c'est-à dire les ascendants, ascendantes, descendants, descendantes, fratries, cousins, cousines, alliés et alliées de mes alliés et alliées... vous suivez ?) 
 * Les parains, marraines, filleuls et filleules des membres cités ci-dessus.
 
 En fait, l'arbre ayant en grande partie été généré par collecte automatique d'arbres de cousins et cousines, beaucoup d'individus présents sont des alliés collatéraux...
 
 ### Quelques données
 * {: style="text-align: justify"} L'arbre contient actuellement **153 653 personnes** se répartissant sur **27 834 noms de famille** distincts. 
-* {: style="text-align: justify"} Mon ancêtre le plus ancien serait **Amal, roi Goth** de la <a href="https://fr.wikipedia.org/wiki/Amales">dynastie des Amales</a>, né vers 150 après J.-C. La dynastie des Amales descend, selon leur tradition orale, du dieu Odin...
-* {: style="text-align: justify"} Le dernier roi de France dont je descendrais serait le Capétien **<a href="https://www.gramps-project.org/wiki/index.php?title=Download">Philippe V</a>, dit « le Long »** (roi en 1316-1322).
-
-{: style="text-align: justify"}
-La descendance des carolingens, si noble puisse-t-elle paraître, est en fait très probablement partagée par tous mes contemporains ayant au moins un ancêtre vivant en "France" à cette époque, comme <a href="https://www.science-et-vie.com/questions-reponses/charlemagne-est-il-lancetre-de-tous-les-francais-56322.html"> les statistiques</a> le prédisent. La Bruyère le résuma : « Tout homme descend à la fois d’un roi et d’un pendu ».
-Tout le jeu consiste de tracer cette descendance...
 
 ## Tutoriel
 

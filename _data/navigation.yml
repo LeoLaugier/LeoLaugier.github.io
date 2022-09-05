@@ -2,14 +2,12 @@
   link: /
 - name: About Me
   link: /about.html
-- name: Projects
-  link: /projects.html
 - name: Research
-  link: /research.html  
-- name: Blog
+  link: /research.html
+- name: Research blog
   #link: /blog.html
   link: https://leolaugier.wp.imt.fr/
-- name: Pictures
-  link: /pictures.html
+- name: School Projects
+  link: /projects.html
 - name: Genealogy
   link: /genealogy.html

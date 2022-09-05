@@ -6,6 +6,9 @@ gems:
   - jekyll-seo-tag
 
 curriculum:
+
+    Pre-doctoral Research Engineer
+
   - image: img/i2r_logo.png
     title: I²R - A*STAR 
     info: June 2018 - February 2019
@@ -19,7 +22,7 @@ curriculum:
     info: August 2017 - May 2018
     place: Berkeley, California
     description: MEng.
-    major: Computer Science
+    major: Computer Science — Machine Learning and Database Systems
     url: https://www.berkeley.edu/
     page: /berkeley.html
   - image: img/ibm_logo.png
@@ -29,19 +32,11 @@ curriculum:
     description: Intern - Data Center Technician 
     url: https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml
     page: /ibm.html
-  - image: img/genius_logo.jpg
-    title: Genius CentraleSupélec
-    info: December 2015 - December 2016
-    place: Gif-sur-Yvette, France
-    description: General Secretary
-    major: Student organization promoting entrepreneurship
-    url: https://geniusglobal.fr/public.html
-    page: /genius.html
   - image: img/logocs.png
-    title: CentraleSupélec (University of Paris-Saclay)
+    title: CentraleSupélec — University of Paris-Saclay
     info: September 2015 - May 2018
     place: Gif-sur-Yvette, France
-    description: BSc. (Upper division) and MSc. — Dipl. Ing.
+    description: BSc. and MSc. — Dipl. Ing.
     major: Electrical Engineering, Computer Science and Telecommunications
     url: https://www.centralesupelec.fr/en
     page: /centralesupelec.html
