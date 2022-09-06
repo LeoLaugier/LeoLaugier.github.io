@@ -5,7 +5,7 @@ description: My research focuses on Deep Learning for Natural Language Processin
 header: True
 ---
 
-[Last updated on September 05, 2022]
+[Last updated on September 05th, 2022]
 
 ## Research interests
 My main area of research is Artificial Intelligence for **Natural Language Processing**, specifically **deep learning** models for natural language understanding and natural language generation.
