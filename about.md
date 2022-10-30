@@ -5,7 +5,7 @@ layout: about
 header: True
 ---
 
-<img src="img/leo.jpg" style='width: 200px ; border-radius: 120px ; margin-left: auto; margin-right: auto; display: block;'>
+<img src="img/LAUGIER_Leo_1.jpg" style='width: 200px ; border-radius: 120px ; margin-left: auto; margin-right: auto; display: block;'>
 <div style='display: block; margin-left: auto; margin-right: auto; '>
   <a href="mailto:leojlaugier[at]gmail.com" target="_blank"><img src="img/gmail.svg" width="24"></a>
   <a href="https://www.linkedin.com/in/leolaugier" target="_blank"><img src="img/linkedin14.png" width="24"></a>
