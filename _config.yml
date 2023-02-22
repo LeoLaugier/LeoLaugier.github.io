@@ -6,12 +6,20 @@ gems:
   - jekyll-seo-tag
 
 curriculum:
+  - image: img/logo-epfl-1024x576.png
+    title: Swiss Federal Institute of Technology Lausanne
+    info: January 2023 - Current
+    place: Lausanne, Switzerland
+    description: Postdoctoral researcher
+    major: Neural Natural Language Processing applied to online polarization and debate analysis
+    url: https://www.epfl.ch/labs/lsir/
+    page: /epfl.html
   - image: img/ipparis_carre.png
-    title: Institut Polytechnique de Paris
+    title: Polytechnic Institute of Paris
     info: June 2019 - November 2022
     place: Palaiseau, France
     description: Ph.D.
-    major: Computer Science — Natural Language Processing with Deep Learning
+    major: Computer Science — Neural Natural Language Processing
     url: https://www.ip-paris.fr/en
     page: /ipparis.html
   - image: img/i2r_logo.png

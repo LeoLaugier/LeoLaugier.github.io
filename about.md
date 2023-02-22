@@ -1,6 +1,6 @@
 ---
 title: About me
-description: Ph.D. candidate in Neural Natural Language Processing
+description: Postdoctoral Researcher in Neural Natural Language Processing
 layout: about
 header: True
 ---
@@ -29,13 +29,15 @@ header: True
 </div>
 --> 
 <!--I come from Paris where I learned engineering and I built an academic background in mathematics and computer science. Previously, I worked as a **Research Engineer** at [**I²R -- A*Star**](https://www.a-star.edu.sg/) in the **Deep Learning** 2.0 team. My research focused on incorporating Common Sense knowledge from knowledge graph into Natural Language Processing systems. I graduated in 2018 from the **Master of Engineering** in EECS of [**UC Berkeley**](https://funginstitute.berkeley.edu/programs-centers/full-time-program/), specializing in Data Science and Systems with added emphasis on Engineering Leadership and strong insights in Entrepreneurship. --> 
-[Last updated on September 2nd, 2022]
+[Last updated on February 22nd, 2023]
 
-I am a **Ph.D. candidate** in the [Department of Computer Science, Data and Artificial Intelligence](https://www.ip-paris.fr/en/research/education-and-research-departments/department-computer-science-data-and-artificial-intelligence) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) (IP Paris), funded by a Google doctoral fellowship and working on Natural Language Processing with Deep Learning. I am supervised by [Prof. Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) ([Data, Intelligence and Graphs](https://dig.telecom-paris.fr/blog/) (DIG) team, IP Paris) and [Dr. Lucas Dixon](https://research.google/people/LucasDixon/) ([People + AI Research](https://research.google/teams/brain/pair/ ) (PAIR) team, [Google Brain](https://ai.google/)). I am also a member of the [Laboratory of Information, Networking and Communication Sciences](https://www.lincs.fr/) (LINCS).  
+I am a **postdoctoral researcher** in the [Distributed Information Systems Laboratory](https://www.epfl.ch/labs/lsir/) at the [Swiss Federal Institute of Technology Lausanne](https://www.epfl.ch/en/) (EPFL) working on Neural Natural Language Processing applied to online polarization and debate analysis.
 {: style="text-align: justify"}
-I am broadly interested in Machine Learning and Artificial Neural Networks for Natural Language Understanding and Generation. My thesis focus is on the **analysis and control of online interactions through Neural Natural Language Processing**.
+I am broadly interested in the capabilities of **Large Pretrained Language Models** to address issues emerging from online discussions. 
+Interactions on social media and news platforms may have serious consequences but I am convinced that artificial intelligence technologies are poised to foster healthier online behaviors.
 {: style="text-align: justify"}
-Prior to joining IP Paris, I spent a fantastic year as a pre-doctoral research engineer at the [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r) (I²R) of the [Agency for Science, Technology and Research](https://www.a-star.edu.sg/) (A*STAR). There, I was a member of the [Deep Learning 2.0](https://www.a-star.edu.sg/i2r/RESEARCH/DEEP-LEARNING) team and worked with [Dr. Anran Wang](https://sites.google.com/site/1991wanganran/), [Dr. Chuan–Sheng Foo](http://ai.stanford.edu/~csfoo/) and [Dr. Vijay Chandrasekhar](http://vijaychan.github.io/). I completed my **Master in computer science** in May 2018 at the [University of California, Berkeley](https://funginstitute.berkeley.edu/programs-centers/full-time-program/) where I was advised by [Prof. Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/). 
+Prior to joining EPFL, I spent 3 fantastic years as a Ph.D. candidate in the [Department of Computer Science, Data and Artificial Intelligence](https://www.ip-paris.fr/en/research/education-and-research-departments/department-computer-science-data-and-artificial-intelligence) at the [Polytechnic Institute of Paris](https://www.ip-paris.fr/) (IP Paris), funded by a Google doctoral fellowship and working on Natural Language Processing with Deep Learning. I was supervised by [Prof. Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) ([Data, Intelligence and Graphs](https://dig.telecom-paris.fr/blog/) (DIG) team, IP Paris) and [Dr. Lucas Dixon](https://research.google/people/LucasDixon/) ([People + AI Research](https://research.google/teams/brain/pair/ ) (PAIR) team, [Google Brain](https://ai.google/)). 
+My thesis focus was on the **analysis and control of online interactions through Neural Natural Language Processing**.
 {: style="text-align: justify"}
 You can find out more about my research and outreach activities by exploring the rest of my site and [my GitHub repositories](https://github.com/LeoLaugier). 
 {: style="text-align: justify"}
