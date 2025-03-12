@@ -1,0 +1,239 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Gen Z mode: transforms all text to lowercase */
+body.genz-mode {
+    text-transform: lowercase;
+}
+
+header {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.left-column {
+    flex: 1;
+    max-width: 250px;
+}
+
+.right-column {
+    flex: 2;
+}
+
+.right-column h2 {
+    margin-top: 0;
+}
+
+.headshot {
+    width: 100%;
+    max-width: 240px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-top: 6px;
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.social-icons a {
+    text-decoration: none;
+}
+
+.social-icons i {
+    font-size: 20px;
+    color: #333;
+}
+
+i.fas:hover:not(#dark-mode-toggle i),
+i.fab:hover:not(#dark-mode-toggle i) {
+    color: #a80000;
+    transition: color 0.3s;
+}
+
+body.latex-dark i.fas,
+body.latex-dark i.fab {
+    color: #bbb;
+}
+
+body.latex-dark i.fas:hover:not(#dark-mode-toggle i),
+body.latex-dark i.fab:hover:not(#dark-mode-toggle i) {
+    color: #95daf3;
+}
+
+.contact-info {
+    margin-top: 10px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.news-date {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.publication-list {
+    list-style: disc;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.publication-list li {
+    margin-bottom: 15px;
+}
+
+.publication-entry {
+    margin: 0;
+    line-height: 1.4;
+}
+
+.publication-list a {
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.publication-list a:hover {
+    text-decoration: underline;
+}
+
+.publication-list strong {
+    font-weight: bold;
+}
+
+.publication-list em {
+    font-style: italic;
+}
+
+.name-and-toggle {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.toggle-buttons {
+    display: flex;
+    gap: 8px;
+    margin-left: 8px;
+}
+
+#dark-mode-toggle {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 0;
+    line-height: 1;
+    font-size: 20px;
+    width: 36px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Gen Z toggle styling */
+#genz-mode-toggle {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 0;
+    line-height: 1;
+    font-size: 16px;
+    width: 36px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Style when Gen Z mode is active */
+#genz-mode-toggle.active {
+    background-color: #666; /* or any distinct color to show it's active */
+    border: 1px solid #aaa; /* gives an outline even in light mode */
+}
+
+/* Outline around Gen Z button in dark mode */
+body.latex-dark #genz-mode-toggle {
+    border: 1px solid #aaa; /* same as dark-mode-toggle */
+}
+
+body.latex-dark #dark-mode-toggle {
+    background-color: #3a3a3a;
+    border: 1px solid #aaa;
+}
+
+body.latex-dark #dark-mode-toggle:hover {
+    background-color: #555;
+    color: #f1f1f1;
+}
+
+#dark-mode-toggle:hover {
+    background-color: #555;
+    color: #f1f1f1;
+}
+
+/* Hover for Gen Z mode toggle */
+#genz-mode-toggle:hover {
+    background-color: #555;
+    color: #f1f1f1;
+}
+
+.right-column h2 {
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
+}
+
+.talks-list {
+    list-style: disc;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.talks-list > li {
+    margin-bottom: 15px;
+}
+
+.talk-title {
+    margin: 0 0 3px 0;
+}
+
+.talk-title a {
+    text-decoration: none;
+}
+
+.talk-details {
+    list-style: none;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.talk-details li {
+    margin-top: -6px;
+}
+
+footer {
+    padding-top: 5px;
+}
