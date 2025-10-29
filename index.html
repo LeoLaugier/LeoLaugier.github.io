@@ -22,6 +22,10 @@
 
     gtag('config', 'G-294XM4BRBT');
     </script>
+    <!-- Email offuscation: https://spencermortensen.com/articles/email-obfuscation/#text-interaction -->
+    
+    <!-- 1.10 -->
+    <script src="text-interaction.js" defer></script>
 </head>
 
 <body>
@@ -33,8 +37,9 @@
                 alt="Photo of Leo Laugier.">
             <!-- Contact Information -->
             <div class="contact-info">
-                <p><strong>Office:</strong> BC 168 <a href="https://plan.epfl.ch/?dim_floor=1&lang=en&dim_lang=en&tree_groups=centres_nevralgiques_grp%2Cmobilite_acces_grp%2Crestauration_et_commerces_grp%2Censeignement%2Cservices_campus_grp%2Cequipements_grp&tree_group_layers_centres_nevralgiques_grp=&tree_group_layers_mobilite_acces_grp=metro&tree_group_layers_restauration_et_commerces_grp=&tree_group_layers_enseignement=guichet_etudiants&tree_group_layers_services_campus_grp=information_epfl&tree_group_layers_equipements_grp=&baselayer_ref=grp_backgrounds&map_x=2532741&map_y=1152301&map_zoom=15" target="_blank" style="color: #333; text-decoration: none;  font-size: 18px;"><i class="fas fa-map-location-dot"></i>
-                    </a></br> <strong>Email:</strong> name DOT lastname AT epfl DOT ch</p>
+                    <strong>Academic email:</strong> 
+                        <span id="text-interaction">Please interact with the web page to show my email adress.</span>
+                    </p>
             </div>
             <!-- Social Icons -->
             <div class="social-icons">
@@ -61,7 +66,10 @@
                     <button id="genz-mode-toggle" title="Gen Z Mode">Z</button>
                 </div>
             </div>
-            [Last updated on March 10th, 2025]
+            <!-- [Last updated on March 10th, 2025] -->
+            <p style="text-align: justify;">
+                <b>I am on the U.S. job market in Fall 2025 / Winter 2026! Feel free to reach out if you're interested in my profile or have relevant Research Scientist or Engineer openings to share. No U.S. visa sponsorship required.</b>
+            </p>   
             <p style="text-align: justify;">
                 I am a <strong>postdoctoral researcher</strong> in the 
                 <a href="https://www.epfl.ch/labs/lsir/">Distributed Information Systems Laboratory</a> 
@@ -99,11 +107,12 @@
     <section>
         <h2>Interests</h2>
         <p style="text-align: justify;">
-            My research aims at leveraging the capabilities of <strong>Large Language Models
-            to address issues emerging from online discussions</strong>. Web interactions on social media and news platforms 
-            may have serious consequences in real life but I am convinced that Artificial Intelligence technologies are poised 
-            to foster more constructive online behaviors.
-            More generally, I am interested in applications of machine learning and I am always curious in learning new topics in computer science and engineering.
+            I research the capabilities of <b>Large Language Models</b> to address societal challenges arising from online conversations.
+            My work spans <b>toxicity mitigation</b>, <b>social media simulations</b> with LLM agents, and <b>argument mining</b> from large-
+            scale platforms such as Reddit. My PhD established a strong foundation in NLP through self-supervised text-to-text
+            transformers for natural language generation, and my postdoctoral research focused on prototyping novel AI proof-of-
+            concepts within an interdisciplinary team.
+            More generally, I am passionate about applications of machine learning and I am always curious in learning new topics in computer science and engineering.
         </p>
     </section>
 
@@ -129,6 +138,14 @@
             </div>
         </h2>
         <ul class="publication-list">
+            <li>
+                <p class="publication-entry">
+                    <u><strong>Deliberate Lab: A Platform for Real-Time Human-AI Social Experiments.</strong></u><br>
+                        Crystal Qian, Vivian Tsai, Michael Behr, Nada Hussein, Leo Laugier, Nithum Thain, Lucas Dixon<br>
+                    <em>arXiv 2025</em><br>
+                    [ <a href="https://arxiv.org/abs/2510.13011" target="_blank">PDF</a> | <a href="https://deliberate-lab.appspot.com/" target="_blank">Platform</a>] <br>
+                </p>
+            </li>
             <li>
                 <p class="publication-entry">
                     <u><strong>SAGESSE: A System for Argument Generation, Extraction and Structuring of Social Exchanges.</strong></u><br>

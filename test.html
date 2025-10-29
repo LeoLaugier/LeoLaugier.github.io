@@ -1,0 +1,90 @@
+<!-- HTML -->
+<span id="combined-email" data-obf="zibby whose baby example com">
+  zibby whose baby example com
+</span>
+
+<script>
+'use strict';
+
+/* ---------- Helpers ---------- */
+function replaceAllSafe(str, search, replace) {
+  // use native replaceAll when available, otherwise fallback
+  if (String.prototype.replaceAll && typeof search === 'string') {
+    return str.replaceAll(search, replace);
+  }
+  // if search is RegExp or replaceAll not available, use replace with global RegExp
+  if (search instanceof RegExp) {
+    return str.replace(search, replace);
+  }
+  return str.split(search).join(replace);
+}
+
+/* ---------- Decoding logic split in two phases ---------- */
+/* Phase 1: apply on DOMContentLoaded (partial decode) */
+/* Phase 2: apply when user interacts (final decode) */
+
+document.addEventListener('DOMContentLoaded', function () {
+  const el = document.getElementById('combined-email');
+  if (!el) return;
+
+  // original obfuscated source (keep in data-* so bots scanning JS can't easily pick up)
+  const raw = el.dataset.obf?.trim() ?? el.textContent.trim();
+
+  // ---------- Phase 1 (conversion) ----------
+  // Matches your original 1.8 transformations (applied in this exact order)
+  let stage1 = raw
+    .replace(' ', '@')                  // first space -> @
+  stage1 = replaceAllSafe(stage1, ' ', '.'); // remaining spaces -> .
+  stage1 = stage1.replace(/[ziy]/g, '');     // remove z, i, y
+  stage1 = stage1.replace('example', 'email.spencermortensen');
+
+  // show the partially-decoded string in the DOM
+  el.textContent = stage1;
+
+  // ---------- Phase 2 (user interaction) ----------
+  // Matches your original 1.10 transformations (applied on first interaction)
+  function finalDecode() {
+    let t = el.textContent;
+
+    // original sequence:
+    t = t.replace('whose ', '');      // remove leading "whose "
+    t = replaceAllSafe(t, 'b', '');  // remove all 'b'
+    t = t.replace(' ', '@');         // first remaining space -> @
+    t = replaceAllSafe(t, ' ', '.'); // remaining spaces -> .
+    t = t.replace('example', 'email.spencermortensen');
+
+    // small tidy: collapse accidental consecutive dots
+    t = t.replace(/\.\.+/g, '.');
+
+    // create mailto link and replace the element with an anchor
+    const a = document.createElement('a');
+    a.href = 'mailto:' + t;
+    a.textContent = t;
+    a.rel = 'nofollow noopener';
+    a.setAttribute('aria-label', 'Send email to ' + t);
+
+    el.replaceWith(a);
+  }
+
+  // Listener that decodes on the first real user interaction with the element.
+  // We listen for pointerover, focusin and touchstart (covers mouse, keyboard focus, touch).
+  // Use capture=true so the event fires even if child nodes exist.
+  const onInteraction = (evt) => {
+    // only decode if the interaction touched or focused the target element (or its descendants)
+    if (!el.contains(evt.target)) return;
+    removeListeners();
+    finalDecode();
+  };
+
+  function removeListeners() {
+    document.removeEventListener('pointerover', onInteraction, true);
+    document.removeEventListener('focusin', onInteraction, true);
+    document.removeEventListener('touchstart', onInteraction, true);
+  }
+
+  // attach listeners
+  document.addEventListener('pointerover', onInteraction, true);
+  document.addEventListener('focusin', onInteraction, true);
+  document.addEventListener('touchstart', onInteraction, true);
+});
+</script>
